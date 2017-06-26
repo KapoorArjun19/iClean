@@ -10,7 +10,7 @@ import UIKit
 
 class EntryViewController: UIViewController
 {
-
+    //view
     override func viewDidLoad()
     {
         super.viewDidLoad()
